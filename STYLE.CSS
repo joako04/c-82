@@ -1,0 +1,12 @@
+body
+{
+    background-image: url("colors.png");
+ background-size: 65%;   
+ background-position: 35%;
+}
+canvas
+{
+    background-color: bisque;
+    width: 800px;
+    height: 350px;
+}
